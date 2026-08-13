@@ -38,9 +38,7 @@ Every exercise ships as a **SCORM 1.2 .zip** — import into any LMS (Moodle, SA
 
 ## License
 
-[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
-
-Licensed under [Creative Commons Attribution-NonCommercial 4.0 International][cc-by-nc]. You may use, adapt, and redistribute with attribution for any non-commercial purpose — internal training, workshops, university courses. Reselling the content as a standalone product is not permitted.
+Licensed under `Creative Commons Attribution-NonCommercial 4.0 International`. You may use, adapt, and redistribute with attribution for any non-commercial purpose — internal training, workshops, university courses. Reselling the content as a standalone product is not permitted.
 
 ---
 
@@ -159,7 +157,3 @@ Interested? **[Reach out to us](https://ransomleak.com/contact-us/)**
 7. [**Malicious Pull Requests**](https://ransomleak.com/exercises/malicious-pull-requests/) — Catch a backdoor hidden inside a friendly test fix by reading the full diff instead of the description, flagging out-of-scope edits to deploy scripts, and hardening review with CODEOWNERS and fork limits.
 
 8. [**CI/CD Secret Exposure**](https://ransomleak.com/exercises/cicd-secret-exposure/) — Lift a deploy key straight out of a public build log by finding the workflow step that echoes a secret, stopping untrusted input from running as shell commands, and pinning actions by commit SHA and rotating the key.
-
-
-
-**Topics:** secure coding training · application security training · OWASP top 10 2025 · OWASP top 10 training · web application security · web application vulnerabilities · API security · API security training · SQL injection prevention · cross-site scripting XSS · broken access control · security misconfiguration · CSRF prevention · SSRF · secure coding exercises · secure coding best practices · DevSecOps training · application security best practices · penetration testing exercises · vulnerability training for developers · git security · CI/CD security · supply chain security · SCORM security training · free application security training · open source secure coding · developer security training · shift-left security · hands-on security training · interactive security training · OWASP training for developers
